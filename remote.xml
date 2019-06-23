@@ -1,0 +1,15 @@
+<keymap>
+  <global>
+    <remote>
+      <play>Play</play>
+	  <up>Up</up>
+	  <right>Right</right>
+	  <down>Down</down>
+	  <left>Left</left>
+	  <back>Back</back>
+	  <menu>Menu</menu>
+	  <volumeplus>VolumeUp</volumeplus>
+	  <volumeminus>VolumeDown</volumeminus>
+    </remote>
+  </global>
+</keymap>
